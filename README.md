@@ -12,7 +12,6 @@ I am working on its-
 - View port, so it would run nicely on every device's browser.
 - JavaScript, so that my website has more functions.
 
->Current website URL:
->[https://its-acromatic.github.io](https://its-acromatic.github.io)
+>Current website URL: https://its-acromatic.github.io
 
 Bye Bye 👋 
